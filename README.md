@@ -2,6 +2,8 @@
 
 **This repo holds installation instructions for Docker, Magic, Netgen, ngspice, xschem, openlane, pdk**
 
+**(Tested on 17th Nov 2021 - platform ubuntu 20.0.3 version)**
+
 ## Dependencies
 
 `sudo apt install python3-tk tcl-dev tk-dev m4 libx11-dev gcc mesa-common-dev libglu1-mesa-dev`
