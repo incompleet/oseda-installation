@@ -2,7 +2,7 @@
 
 **This repo holds installation instructions for Docker, Magic, Netgen, ngspice, xschem, openlane, pdk**
 
-**(Tested on 17th Nov 2021 - platform ubuntu 20.0.3 version)**
+**(Tested on 17th Nov 2021 - platform ubuntu 20.04.3 version)**
 
 ## Dependencies
 
